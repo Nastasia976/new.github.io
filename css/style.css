@@ -3644,6 +3644,9 @@ body.lock {
   height: 350px;
   width: 100%;
   overflow: hidden; }
+.footlogo{
+width: 99px;
+height: 37px; }
   .footer__button {
     position: relative;
     width: 200px;
